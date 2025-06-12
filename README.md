@@ -1,1 +1,0 @@
-# tour-dulich-17.github.io
