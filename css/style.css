@@ -144,7 +144,7 @@
     
     .sticky-top.navbar-light {
         position: fixed;
-        background: #FFFFFF;
+        background: lightblue;
     }
 
     .navbar-light .navbar-nav .nav-link::before {
