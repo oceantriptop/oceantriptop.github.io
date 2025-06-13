@@ -112,7 +112,7 @@
 @media (max-width: 991.98px) {
     .sticky-top.navbar-light {
         position: relative;
-        background: #FFFFFF;
+        background: lightblue;
     }
 
     .navbar-light .navbar-collapse {
