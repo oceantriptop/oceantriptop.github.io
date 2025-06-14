@@ -441,3 +441,7 @@
     padding-right: 0;
     border-right: none;
 }
+
+.bg-custom{
+    background-color:lightsteelblue;
+}
