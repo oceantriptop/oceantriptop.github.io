@@ -255,7 +255,7 @@
 /*** Package ***/
 .package-item {
     box-shadow: 0 0 45px rgba(0, 0, 0, .08);
-    max-height: 600px;
+    height: 630px;
 }
 
 .package-item img {
